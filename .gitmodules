@@ -1,0 +1,6 @@
+[submodule "SDNS-Android"]
+	path = SDNS-Android
+	url = https://github.com/kostaskol/SDNS-Android
+[submodule "SDNS-Desktop"]
+	path = SDNS-Desktop
+	url = https://github.com/kostaskol/SDNS-Desktop
